@@ -1,3 +1,6 @@
 [submodule "fish"]
 	path = fish
 	url = https://github.com/dedsecer/linuxcf_fish
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/dedsecer/linuxcf_neovim
