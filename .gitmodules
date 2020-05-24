@@ -4,3 +4,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/dedsecer/linuxcf_neovim
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/dedsecer/linuxcf_ranger
